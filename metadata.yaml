@@ -1,0 +1,38 @@
+_repo: The-First-Essay-on-the-Political-Rights-of-Women_31550
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Vickery, Alice Drysdale
+    alias: Drysdale-Vickery, Alice
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '35322'
+    url: http://www.gutenberg.org/2009/agents/35322
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de
+    aliases:
+    - Caritat, Jean-Antoine-Nicolas de, marquis de Condorcet
+    - De Caritat, Jean-Antoine-Nicolas, marquis de Condorcet
+    birthdate: 1743
+    deathdate: 1794
+    gutenberg_agent_id: '34146'
+    url: http://www.gutenberg.org/2009/agents/34146
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Antoine_de_Caritat_de_Condorcet
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JF'
+- !lcsh 'Women -- Suffrage'
+title: The First Essay on the Political Rights of Women
+url: http://www.gutenberg.org/ebooks/31550

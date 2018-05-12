@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34146
     wikipedia: http://en.wikipedia.org/wiki/Jean-Antoine_de_Caritat_de_Condorcet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31550#The-First-Essay-on-the-Political-Rights-of-Women
 gutenberg_issued: '2010-03-08'
 gutenberg_type: Text
 identifiers:
